@@ -22,7 +22,7 @@ In addition, this project will include:
 
 This app will consist of a single screen with game board, game controls, and nav links to the Github, my LinkedIn, and an About sidebar with game directions. Game controls will include Start, Stop, and Reset buttons that can be activated via cursor or keyboard shortcuts. The about sidebar is next to the game window. The game window will have a score box at the top right hand corner. The score will measure either hints use or time to figure out the quotes. Each question will display quote at the center top. There is a text input bar that requires either exact match for the speaker or just their last name. The hints will be hidden under book icons that will be dragged out of the way, revealing the quote, thus incorporating Easel.js. After each question, display a picture of the speaker.
 
-![wireframes](wireframes/question_show.png)
+![wireframes](wireframes/game_question.png)
 
 ### Architecture and Technologies
 
