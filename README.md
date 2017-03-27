@@ -61,7 +61,6 @@ In addition to the webpack entry file, there will be three scripts involved in t
 
   **Day 3**: Create the `score.js` logic backend.  Build out logic for devising score based on time spent playing per question or on how many hints were viewed. Incorporate the logic into the `game.js` rendering.  Goals for the day:
 
-- Export an `Automata` object with correct type and handling logic
 - Have a functional grid on the `Canvas` frontend that correctly handles iterations from one generation of the game to the next
 
 
