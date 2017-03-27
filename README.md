@@ -10,6 +10,7 @@ With Who Said That!, users will be able to:
 
 - [ ] Start, pause, and reset the game
 - [ ] Answer questions and select hints
+- [ ] Render book icons to hide hints
 - [ ] See pictures of the speaker after each question
 
 In addition, this project will include:
